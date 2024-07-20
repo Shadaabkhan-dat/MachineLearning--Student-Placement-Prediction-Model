@@ -1,4 +1,6 @@
 Student Placement Prediction Model
+
+
 Overview
 This project involves developing a machine learning model to predict student placements. The model uses various features such as academic performance, extracurricular activities, and other relevant factors to predict the likelihood of a student being placed in a company.
 
